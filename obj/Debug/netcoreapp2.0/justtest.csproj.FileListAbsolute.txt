@@ -1,0 +1,11 @@
+/home/luis-espinoza/Projects/personal/netcore/justtest/bin/Debug/netcoreapp2.0/justtest.deps.json
+/home/luis-espinoza/Projects/personal/netcore/justtest/bin/Debug/netcoreapp2.0/justtest.runtimeconfig.json
+/home/luis-espinoza/Projects/personal/netcore/justtest/bin/Debug/netcoreapp2.0/justtest.runtimeconfig.dev.json
+/home/luis-espinoza/Projects/personal/netcore/justtest/bin/Debug/netcoreapp2.0/justtest.dll
+/home/luis-espinoza/Projects/personal/netcore/justtest/bin/Debug/netcoreapp2.0/justtest.pdb
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.csprojResolveAssemblyReference.cache
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.csproj.CoreCompileInputs.cache
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.AssemblyInfoInputs.cache
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.AssemblyInfo.cs
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.dll
+/home/luis-espinoza/Projects/personal/netcore/justtest/obj/Debug/netcoreapp2.0/justtest.pdb
