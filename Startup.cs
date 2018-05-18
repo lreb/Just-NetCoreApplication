@@ -46,7 +46,7 @@ namespace justtest
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=HelloWorld}/{action=Index}/{id?}");
+                    template: "{controller=Movies}/{action=Index}/{id?}");
             });
         }
     }
