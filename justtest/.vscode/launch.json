@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/justtest/bin/Debug/netcoreapp2.0/justtest.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/justtest.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/justtest",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
