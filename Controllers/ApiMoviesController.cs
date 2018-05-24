@@ -60,7 +60,7 @@ namespace justtest.Controllers
         // POST: Movies/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost("{id:int}")]
+        [HttpPut("{id:int}")]
         public async Task<IActionResult> Edit(int id, [FromBody] Movie movie)
         {
             if (id != movie.ID)
@@ -92,7 +92,7 @@ namespace justtest.Controllers
         }
 
         // POST: Movies/Delete/5
-        [HttpPost("{id:int}"), ActionName("Delete")]
+        [HttpDelete("{id:int}"), ActionName("Delete")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var movie = await _context.Movie.SingleOrDefaultAsync(m => m.ID == id);
