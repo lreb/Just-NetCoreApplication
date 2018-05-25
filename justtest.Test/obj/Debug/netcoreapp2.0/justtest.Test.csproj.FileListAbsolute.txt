@@ -1,0 +1,16 @@
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.Test.deps.json
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.Test.runtimeconfig.json
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.Test.runtimeconfig.dev.json
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.Test.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.Test.pdb
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/bin/Debug/netcoreapp2.0/justtest.pdb
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.csproj.CoreCompileInputs.cache
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.AssemblyInfoInputs.cache
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.AssemblyInfo.cs
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.csproj.CopyComplete
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.dll
+/Users/developer/Documents/projects/personal/Just-NetCoreApplication/justtest.Test/obj/Debug/netcoreapp2.0/justtest.Test.pdb

@@ -1,18 +1,32 @@
-using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using justtest.Controllers;
+using justtest.Models;
 
-namespace Tests
+namespace justtest.Test
 {
-    public class Tests
+    [TestClass]
+    public class TestMoviesController
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
+        private readonly MoviesController _moviesController;
+        private readonly ModelContext _modelContext;
 
-        [Test]
-        public void Test1()
+        public TestMoviesController()
         {
-            Assert.Pass();
+            _moviesController = new MoviesController(_modelContext);
+        }
+        
+        [TestMethod]
+        public async Task Details()
+        {
+            var result = await _moviesController.Details(2);
+
+            //private readonly ModelContext _context;
+            //var controller = new MoviesController(new ModelContext());
+            //var result = movies.Details(3);
+            Assert.IsFalse(result!=null);
         }
     }
 }
