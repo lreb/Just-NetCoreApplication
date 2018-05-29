@@ -59,7 +59,7 @@ namespace justtest.Controllers
             {
                 return NotFound();
             }
-
+            //var movie = new IAsyncEnumerable<Movie>();
             var movie = await _context.Movie
                 .SingleOrDefaultAsync(m => m.ID == id);
             if (movie == null)
